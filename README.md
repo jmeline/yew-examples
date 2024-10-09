@@ -1,4 +1,6 @@
-Learning rust and yew. Open a PR adding a yew project!
+Learning rust and yew. 
+
+Open a PR adding a yew project!
 
 Yew: https://yew.rs/
 
