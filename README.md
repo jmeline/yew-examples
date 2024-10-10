@@ -1,4 +1,4 @@
-Learning rust and yew. 
+Learning rust and yew.
 
 ## Getting started
 
@@ -15,6 +15,9 @@ Add a screenshot of your website
 ## Resources
 Yew: https://yew.rs/
 
-Rust: https://www.rust-lang.org/ 
+Rust: https://www.rust-lang.org/
 
 Learn rust → [book](https://doc.rust-lang.org/book/)
+Rust: https://www.rust-lang.org/ [book](https://doc.rust-lang.org/book/)
+
+Rust and WebAssembly book: https://rustwasm.github.io/docs/book/
